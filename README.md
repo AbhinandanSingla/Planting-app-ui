@@ -6,7 +6,7 @@
 <img src"https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/main.png">
 
 ### MainScreen Scrolled
-<img src "https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/mainScrolled.pnge">
+<a href = 'https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/mainScrolled.png' ><img src "https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/mainScrolled.pnge"></a>
 
 ### Detail Page
 
