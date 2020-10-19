@@ -1,16 +1,18 @@
-# plant_app
+# Plant_app - Flutter UI
 
-A new Flutter application.
+##### Nice clean plant app UI using flutter, the Home page you will get search box than a horizontal list of recommended plants. At the bottom featured plans list. On the details page, a big image with its 4 icons on the right side also add to the cart button.
 
-## Getting Started
+### MainSreen 
+<img src"https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/main.png">
 
-This project is a starting point for a Flutter application.
+### MainScreen Scrolled
+<img src "https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/mainScrolled.pnge">
 
-A few resources to get you started if this is your first Flutter project:
+### Detail Page
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src"https://raw.githubusercontent.com/AbhinandanSingla/Planting-app-ui/main/assets/detailStrolled.png" height= 300>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### guys hope you like our work :heart: :heart:
+
+###### get inspired by :- abuanwar072
+
