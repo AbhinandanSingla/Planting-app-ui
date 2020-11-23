@@ -11,7 +11,7 @@
 
 ### Detail Page
 
-<img src"https://github.com/AbhinandanSingla/Planting-app-ui/blob/main/assets/detail.png" height= 300>
+<img alt='main plant pic' src='https://github.com/AbhinandanSingla/Planting-app-ui/blob/main/images/main.png' height= 300>
 
 ##### guys hope you like our work :heart: :heart:
 
